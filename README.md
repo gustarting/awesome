@@ -194,5 +194,6 @@ https://www.similarweb.com/
 
 https://www.nav.al/happiness
 
-
 ## Twitter
+
+https://x.com/paulg/status/1870456314427756743
