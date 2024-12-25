@@ -107,9 +107,12 @@ https://www.youtube.com/@mouredevtv
 
 https://www.youtube.com/@developedbyed
 
+https://github.com/JoseDeFreitas/awesome-youtubers
+
+
 https://github.com/ErikCH/DevYouTubeList
 
-https://github.com/JoseDeFreitas/awesome-youtubers
+
 
 https://github.com/topicplay/YouTubeList
 
