@@ -47,6 +47,9 @@ https://a16z.com/why-software-is-eating-the-world/ | Software is eating the worl
 
 https://pmarchive.com/ | best articles from Marc Andreessen
 
+https://www.joelonsoftware.com/
+
+
 [![Paul Graham](https://pbs.twimg.com/media/E1vS9WwWUAEYYaR?format=jpg&name=medium)](https://www.paulgraham.com/articles.html)
 
 https://www.paulgraham.es/ensayos/ | Ensayos en español
@@ -81,7 +84,7 @@ https://www.youtube.com/@DotCSVLab
 
 https://www.youtube.com/@DotCSV
 
-https://www.youtube.com/@platzi
+https://www.youtube.com/@Platzi
 
 https://www.youtube.com/@FaztTech
 
@@ -126,6 +129,8 @@ http://www.catb.org/esr/faqs/hacker-howto.html
 https://www.norvig.com/21-days.html
 
 https://www.reddit.com/r/learnprogramming/wiki/faq/
+
+
 
 ## Fullstack
 
