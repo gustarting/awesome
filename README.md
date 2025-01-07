@@ -110,6 +110,8 @@ https://www.youtube.com/@mouredevtv
 
 https://www.youtube.com/@developedbyed
 
+ | playlist with the best youtube videos 
+
 https://github.com/JoseDeFreitas/awesome-youtubers
 
 
