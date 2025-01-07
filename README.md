@@ -190,6 +190,9 @@ https://www.goodbooks.io/top-100/all-books
 
 https://www.navalmanack.com/navals-recommended-reading
 
+https://www.goodreads.com/list/show/13430.Silicon_Valley_History | you can find the best lists of books in Goodreads 
+
+
 ## Marketing
 
 https://github.com/goabstract/Marketing-for-Engineers
