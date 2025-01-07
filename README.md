@@ -205,6 +205,6 @@ https://www.similarweb.com/
 
 https://www.nav.al/happiness
 
-## Twitter
+## X(Twitter)
 
-https://x.com/paulg/status/1870456314427756743
+https://x.com/paulg/status/1870456314427756743 | great accounts to follow in X
