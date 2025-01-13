@@ -124,6 +124,8 @@ https://github.com/topicplay/YouTubeList
 ## Roadmap for Computer Science and Software Engineering
 [![Best courses](https://i.ytimg.com/vi/dqlO6_5rZSQ/hq720.jpg)](https://www.youtube.com/watch?v=dqlO6_5rZSQ)
 
+https://roadmap.sh/
+
 https://cs50.harvard.edu/x/2024/
 
 http://www.catb.org/esr/faqs/hacker-howto.html
@@ -132,7 +134,7 @@ https://www.norvig.com/21-days.html
 
 https://www.reddit.com/r/learnprogramming/wiki/faq/
 
-
+https://www.theodinproject.com/paths
 
 ## Fullstack
 
