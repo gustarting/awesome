@@ -19,13 +19,13 @@ https://www.paulgraham.com/hwh.html
 
 https://www.paulgraham.com/genius.html
 
+https://www.paulgraham.com/startupideas.html
+
 https://www.paulgraham.com/gh.html
 
 https://www.paulgraham.com/think.html
 
 https://www.paulgraham.com/vb.html
-
-https://www.paulgraham.com/startupideas.html
 
 https://www.paulgraham.com/college.html
 
