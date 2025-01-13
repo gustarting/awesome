@@ -136,6 +136,8 @@ https://www.reddit.com/r/learnprogramming/wiki/faq/
 
 https://www.theodinproject.com/paths
 
+https://www.freecodecamp.org/learn
+
 ## Fullstack
 
 [![projects for fullstack](http://img.youtube.com/vi/Osy0yuxuEOw/0.jpg)](https://www.youtube.com/watch?v=Osy0yuxuEOw)
