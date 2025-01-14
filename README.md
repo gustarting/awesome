@@ -138,6 +138,9 @@ https://www.theodinproject.com/paths
 
 https://www.freecodecamp.org/learn
 
+https://cs.stanford.edu/people/nick/py/python-about.html
+
+
 ## Fullstack
 
 [![projects for fullstack](http://img.youtube.com/vi/Osy0yuxuEOw/0.jpg)](https://www.youtube.com/watch?v=Osy0yuxuEOw)
