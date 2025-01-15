@@ -140,6 +140,8 @@ https://www.freecodecamp.org/learn
 
 https://cs.stanford.edu/people/nick/py/python-about.html
 
+https://www.classcentral.com/collection/top-free-online-courses
+
 
 ## Fullstack
 
