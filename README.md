@@ -203,6 +203,8 @@ https://www.navalmanack.com/navals-recommended-reading
 
 https://www.goodreads.com/list/show/13430.Silicon_Valley_History | you can find the best lists of books in Goodreads 
 
+## Tech News
+
 
 ## Marketing
 
