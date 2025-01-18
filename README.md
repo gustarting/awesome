@@ -147,6 +147,8 @@ https://cs.stanford.edu/people/nick/py/python-about.html
 
 https://www.classcentral.com/collection/top-free-online-courses
 
+https://www.youtube.com/watch?v=_uQrJ0TkZlc
+
 
 ## Fullstack
 
