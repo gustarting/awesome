@@ -178,6 +178,8 @@ https://www.kaggle.com/competitions/kaggle-survey-2022/overview
 
 ## AI and AGI(2027)
 
+https://chat.deepseek.com/
+
 https://a16z.com/ai-will-save-the-world/
 
 https://www.claude.ai/new
@@ -207,6 +209,8 @@ https://www.mostrecommendedbooks.com/best-books-of-all-time
 https://www.goodbooks.io/top-100/all-books
 
 https://www.navalmanack.com/navals-recommended-reading
+
+https://patrickcollison.com/bookshelf
 
 https://www.goodreads.com/list/show/13430.Silicon_Valley_History | you can find the best lists of books in Goodreads 
 
