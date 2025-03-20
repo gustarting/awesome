@@ -176,7 +176,9 @@ https://github.blog/news-insights/octoverse/octoverse-2024/
 
 https://www.kaggle.com/competitions/kaggle-survey-2022/overview
 
-## AI and AGI(2027)
+## AI and Agents(systems that can do the work of an organization)
+
+https://www.youtube.com/watch?v=EWvNQjAaOHw | How I use LLMs by Andrej Karpathy
 
 https://chat.deepseek.com/
 
