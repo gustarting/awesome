@@ -59,6 +59,22 @@ https://www.paulgraham.es/ensayos/ | Ensayos en español
 
 ## Best Youtubers to learn programming without requirements
 
+https://www.youtube.com/@BroCodez
+
+https://www.youtube.com/@ExternCode
+
+https://www.youtube.com/@PortfolioCourses
+
+https://www.youtube.com/@ClearCode
+
+https://www.youtube.com/@freecodecamp
+
+https://www.youtube.com/@TechWithTim
+
+https://www.youtube.com/@appbrewery
+
+https://www.youtube.com/@codebreakthrough
+
 https://www.youtube.com/@NeetCode
 
 https://www.youtube.com/@jherr
@@ -74,8 +90,6 @@ https://www.youtube.com/@hnasr
 https://www.youtube.com/@ThePrimeTimeagen
 
 https://www.youtube.com/@Fireship
-
-https://www.youtube.com/@TechWithTim
 
 https://www.youtube.com/@TraversyMedia
 
@@ -157,6 +171,9 @@ https://www.youtube.com/watch?v=_uQrJ0TkZlc
 https://www.epicreact.dev/
 
 https://www.css-for-js.dev/
+
+https://www.youtube.com/watch?v=3nYLTiY5skU  | My review 90/100
+
 
 ## Surveys and some awesome insights
 
