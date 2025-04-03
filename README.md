@@ -73,6 +73,8 @@ https://www.youtube.com/@TechWithTim
 
 https://www.youtube.com/@appbrewery
 
+https://www.youtube.com/@DesignCourse
+
 https://www.youtube.com/@codebreakthrough
 
 https://www.youtube.com/@NeetCode
