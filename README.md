@@ -1,16 +1,13 @@
 # awesome
 > "I read books and talked to people. I mean that's kind of how one learns anything. There's lots of great books out there & lots of smart people." (Elon Musk)
- 
+
 ## A list of the most github stars and forks repositories. A list of top github users per country.
 
-https://github.com/sindresorhus/awesome | The best repo of all github  
-
-https://github.com/EvanLi/Github-Ranking
+https://github.com/EvanLi/Github-Ranking?tab=readme-ov-file#most-stars | Github stars and forks ranking list, the best GitHub repositories have Discord. !    
 
 https://gitstar-ranking.com/repositories
 
 https://github.com/gayanvoice/top-github-users/
-
 
 ## On productivity
 
