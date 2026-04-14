@@ -3,7 +3,7 @@
 
 ## A list of the most github stars and forks repositories. A list of top github users per country.
 
-https://github.com/EvanLi/Github-Ranking?tab=readme-ov-file#most-stars | Github stars and forks ranking list, the best GitHub repositories have Discord. !    
+https://github.com/EvanLi/Github-Ranking?tab=readme-ov-file#most-stars | The best GitHub repositories have Discord.   
 
 https://gitstar-ranking.com/repositories
 
