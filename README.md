@@ -54,6 +54,21 @@ https://www.joelonsoftware.com/
 
 https://www.paulgraham.es/ensayos/ | Ensayos en español
 
+## Fullstack
+
+https://www.udemy.com/course/python-django-the-practical-guide | my review 9X/100
+
+https://www.udemy.com/course/python-django-dev-to-deployment | my review 9X/100
+
+https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/ | my review 94/100
+
+https://www.youtube.com/watch?v=3nYLTiY5skU  | my review 92/100
+
+https://www.youtube.com/watch?v=chPhlsHoEPo  | my review 90/100  
+
+
+[![projects for fullstack](http://img.youtube.com/vi/Osy0yuxuEOw/0.jpg)](https://www.youtube.com/watch?v=Osy0yuxuEOw)
+
 ## Best Youtubers to learn programming without requirements
 
 https://www.youtube.com/@BroCodez
@@ -162,16 +177,6 @@ https://www.classcentral.com/collection/top-free-online-courses
 
 https://www.youtube.com/watch?v=_uQrJ0TkZlc
 
-
-## Fullstack
-
-[![projects for fullstack](http://img.youtube.com/vi/Osy0yuxuEOw/0.jpg)](https://www.youtube.com/watch?v=Osy0yuxuEOw)
-
-https://www.epicreact.dev/
-
-https://www.css-for-js.dev/
-
-https://www.youtube.com/watch?v=3nYLTiY5skU  | My review 90/100
 
 
 ## Surveys and some awesome insights
