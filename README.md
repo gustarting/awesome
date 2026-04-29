@@ -56,11 +56,13 @@ https://www.paulgraham.es/ensayos/ | Ensayos en español
 
 ## Fullstack
 
-https://www.udemy.com/course/python-django-the-practical-guide | my review 9X/100
+https://www.udemy.com/course/python-django-the-practical-guide | my review 96/100
 
 https://www.udemy.com/course/python-django-dev-to-deployment | my review 9X/100
 
 https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/ | my review 94/100
+
+https://www.youtube.com/watch?v=PtQiiknWUcI  | my review 95/100
 
 https://www.youtube.com/watch?v=T1intZyhXDU  | my review 94/100
 
