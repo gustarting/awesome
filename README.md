@@ -62,6 +62,8 @@ https://www.udemy.com/course/python-django-dev-to-deployment | my review 9X/100
 
 https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/ | my review 94/100
 
+https://www.youtube.com/watch?v=T1intZyhXDU  | my review 94/100
+
 https://www.youtube.com/watch?v=3nYLTiY5skU  | my review 92/100
 
 https://www.youtube.com/watch?v=chPhlsHoEPo  | my review 90/100  
