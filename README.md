@@ -203,25 +203,27 @@ https://www.kaggle.com/competitions/kaggle-survey-2022/overview
 
 ## AI and Agents(systems that can do the work of an organization)
 
+https://artificialanalysis.ai/#intelligence
+
+https://claude.com | https://platform.claude.com/docs/en/about-claude/models/overview
+
+https://chatgpt.com | https://developers.openai.com/api/docs/guides/reasoning
+
+https://warp.dev
+
+https://gemini.google.com
+
+https://chat.deepseek.com
+
+https://cursor.com
+
+https://kimi.com
+
+https://grok.com
+
 https://www.youtube.com/watch?v=EWvNQjAaOHw | How I use LLMs by Andrej Karpathy
 
-https://chat.deepseek.com/
-
-https://a16z.com/ai-will-save-the-world/
-
-https://www.claude.ai/new
-
-https://www.bolt.new/
-
-https://v0.dev/
-
-https://www.cursor.com/
-
-https://codeium.com/windsurf
-
-All IA chatbots start with https://chatgpt.com/
-
-https://openai.com/index/learning-to-reason-with-llms/
+https://a16z.com/ai-will-save-the-world
 
 Terence Tao | https://mathstodon.xyz/@tao/113132503432772494 | https://en.wikipedia.org/wiki/OpenAI_o1
 
