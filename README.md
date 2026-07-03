@@ -217,9 +217,9 @@ https://chatgpt.com | https://developers.openai.com/api/docs/guides/reasoning
 
 https://cursor.com | https://cursor.com/es/docs/models-and-pricing 
 
-https://chat.z.ai 
+https://chat.z.ai | https://z.ai/subscribe
 
-https://kimi.com
+https://kimi.com | https://kimi.com/membership/pricing
 
 https://chat.deepseek.com
 
