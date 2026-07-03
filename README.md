@@ -203,21 +203,29 @@ https://www.kaggle.com/competitions/kaggle-survey-2022/overview
 
 ## AI and Agents(systems that can do the work of an organization)
 
+https://deepswe.datacurve.ai/
+
+https://cognition.com/blog/frontier-code
+
 https://artificialanalysis.ai/#intelligence
+
+https://intelligence.ai/leaderboard
 
 https://claude.com | https://platform.claude.com/docs/en/about-claude/models/overview
 
 https://chatgpt.com | https://developers.openai.com/api/docs/guides/reasoning
 
-https://warp.dev
+https://cursor.com | https://cursor.com/es/docs/models-and-pricing 
 
-https://gemini.google.com
+https://chat.z.ai/
 
 https://chat.deepseek.com
 
-https://cursor.com
-
 https://kimi.com
+
+https://warp.dev
+
+https://gemini.google.com
 
 https://grok.com
 
