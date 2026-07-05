@@ -211,11 +211,11 @@ https://artificialanalysis.ai/#intelligence
 
 https://intelligence.ai/leaderboard
 
-https://claude.com | https://platform.claude.com/docs/en/about-claude/models/overview
+https://claude.com | https://code.claude.com/docs/en/best-practices
 
-https://chatgpt.com | https://developers.openai.com/api/docs/guides/reasoning
+https://chatgpt.com | https://developers.openai.com/codex/learn/best-practices
 
-https://cursor.com | https://cursor.com/es/docs/models-and-pricing 
+https://cursor.com | https://cursor.com/es/docs/models-and-pricing
 
 https://chat.z.ai | https://z.ai/subscribe
 
