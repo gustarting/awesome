@@ -239,6 +239,8 @@ Linus Torvalds | https://youtu.be/s4wlrxFf2lM?si=1DR-zhfKu6t-4LMC&t=2302 | 2029,
 
 ## Books
 
+https://open-slum.pages.dev | https://open-slum.org | almost all the best books
+
 https://www.bookmarked.club/books
 
 https://www.mostrecommendedbooks.com/best-books-of-all-time
