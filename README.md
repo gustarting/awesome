@@ -47,6 +47,8 @@ https://a16z.com/why-software-is-eating-the-world/ | Software is eating the worl
 
 https://pmarchive.com/ | best articles from Marc Andreessen
 
+https://patrickcollison.com/advice
+
 https://guzey.com/personal/what-should-you-do-with-your-life/
 
 https://www.joelonsoftware.com/
